@@ -1,6 +1,6 @@
 <h1 align="left">Software Engineer | FullStack Web Developer</h1>
 <h3 align="left"> Portfolio: https://nooraldeentumeh.getportify.com/</h3>
-<h3>
+<p>
   I am a Full Stack Software Engineer specializing in building scalable web applications, SaaS platforms, and business management systems.
 
 My experience spans healthcare systems, university management platforms, e-commerce solutions, fundraising platforms, and AI-powered web applications. I have worked with startups and international teams, contributing to both frontend and backend development while delivering production-ready solutions.
@@ -11,14 +11,14 @@ Currently, I focus on Laravel, React, Next.js, PostgreSQL, and cloud-based archi
 
 Core Stack:
 Laravel, PHP, React, Next.js, Vue.js, JavaScript, TypeScript, PostgreSQL, MySQL, MongoDB, REST APIs, Swagger/OpenAPI, Git, Docker, Cloud Deployment.
-</h3>
+</p>
 
 <h2 align="left">Contact Information</h2>
-<p>If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me.
+<p>If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me.</p>
 
-Name: NoorAldeen Tumeh
-Email: nooraldeentumeh@gmail.com
-LinkedIn: : nooraldeen-tumeh</p>
+<h3>Name: NoorAldeen Tumeh</h3>
+<h3>Email: nooraldeentumeh@gmail.com</h3>
+<h3>LinkedIn: : nooraldeen-tumeh</h3>
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Noortumeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noortumeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
