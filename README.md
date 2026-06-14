@@ -1,8 +1,25 @@
-<h2 align="left">Software Engineer | FullStack Web Developer</h2>
+<h1 align="left">Software Engineer | FullStack Web Developer</h1>
 <h3 align="left"> Portfolio: https://nooraldeentumeh.getportify.com/</h3>
-###
+<h3>
+  I am a Full Stack Software Engineer specializing in building scalable web applications, SaaS platforms, and business management systems.
 
-<div align="center">
+My experience spans healthcare systems, university management platforms, e-commerce solutions, fundraising platforms, and AI-powered web applications. I have worked with startups and international teams, contributing to both frontend and backend development while delivering production-ready solutions.
+
+I enjoy designing RESTful APIs, building modern user interfaces, optimizing database architectures, and solving complex business problems through software.
+
+Currently, I focus on Laravel, React, Next.js, PostgreSQL, and cloud-based architectures, while continuously expanding my expertise in software engineering, DevOps, and AI-powered applications.
+
+Core Stack:
+Laravel, PHP, React, Next.js, Vue.js, JavaScript, TypeScript, PostgreSQL, MySQL, MongoDB, REST APIs, Swagger/OpenAPI, Git, Docker, Cloud Deployment.
+</h3>
+
+<h2 align="left">Contact Information</h2>
+<p>If you have any questions, suggestions, or collaboration opportunities, please feel free to reach out to me.
+
+Name: NoorAldeen Tumeh
+Email: nooraldeentumeh@gmail.com
+LinkedIn: : nooraldeen-tumeh</p>
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Noortumeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noortumeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -37,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-</div>
+</div> -->
 
 ###
 
@@ -53,11 +70,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Noortumeh/Noortumeh/output/snake.svg" alt="Snake animation" />
 
 ###
